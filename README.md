@@ -33,11 +33,8 @@ This is a meta repository that contains documentation and links to two subfolder
   - [Processing](#processing)
   - [Storage](#storage)
   - [Visualization](#visualization)
-- [Author: 👤 **Kristijan Bakaric**](#author--kristijan-bakaric)
 - [Follow Me On](#follow-me-on)
   - [Show your support](#show-your-support)
-
-
 
 
 **Tools:**
